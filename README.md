@@ -1,0 +1,2 @@
+# Backtesting-a-Williams-R-Trading-Strategy-with-Capital-Growth-Simulation-and-Trade-Visualization
+This project implements and evaluates a rule-based trading strategy using the Williams %R indicator on historical stock data (e.g., BSE-listed equities). The workflow includes data preprocessing, signal generation, realistic backtesting with capital and slippage simulation, risk metrics, and multi-panel visualizations.
